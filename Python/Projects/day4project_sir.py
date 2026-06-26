@@ -3,6 +3,9 @@ from dotenv import load_dotenv
 import os
 load_dotenv()
 API_KEY=os.getenv("Weather_API_KEY")
+
+
+
 def findwe(nm):
     a=requests.get(f"https://api.openweathermap.org/data/2.5/weather?q={nm}&appid={API_KEY}&units=metric")
     try:

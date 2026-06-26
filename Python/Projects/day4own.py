@@ -3,6 +3,8 @@ from dotenv import load_dotenv
 import os 
 load_dotenv()
 API_KEY=os.getenv("Weather_API_KEY")
+
+
 name=input("Enter City name:")
 city= requests.get(f"https://api.openweathermap.org/data/2.5/weather?q={name}&appid={API_KEY}&units=metric")
 
