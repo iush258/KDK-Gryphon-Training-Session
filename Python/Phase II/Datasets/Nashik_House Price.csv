@@ -1,0 +1,18 @@
+City,Area,Flat_type,Parking,Area_SqMeter,Price_Lakhs
+Nashik,Govind Nagar,1 BHK,No,57.6,27.5
+Nashik,Govind Nagar,1 BHK,Yes,59.45,31.2
+Nashik,Govind Nagar,2 BHK,Yes,78.96,37.4
+Nashik,Govind Nagar,3 BHK,Yes,97.55,47.1
+Nashik,Gangapur Road,1 BHK,Yes,59.45,25.5
+Nashik,Gangapur Road,2 BHK,Yes,80.8,30.5
+Nashik,Gangapur Road,3 BHK,Yes,102.2,45.7
+Nashik,Ashok Nagar,1 RK,No,41.8,17.8
+Nashik,Ashok Nagar,1 BHK,No,60.1,25.2
+Nashik,Ashok Nagar,2 BHK,Yes,82.7,30.5
+Pune,Wagoli,1 BHK,No,53.8,34.4
+Pune,Wagoli,1 BHK,Yes,55.2,37.65
+Pune,Wagoli,2 BHK,Yes,72.9,51.51
+Pune,Wagoli,3 BHK,Yes,85.4,62.78
+Pune,Wadgaon_BK,1 BHK,Yes,56.7,31.7
+Pune,Wadgaon_BK,2 BHK,Yes,71.8,42.7
+Pune,Wadgaon_BK,3 BHK,Yes,71.8,52.8
